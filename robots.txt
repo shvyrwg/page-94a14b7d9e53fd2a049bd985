@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.xn--flyingbird-bj46af30b.com/sitemap.xml
